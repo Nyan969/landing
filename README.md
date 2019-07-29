@@ -1,2 +1,2 @@
-# [landing](http://Nyan969.github.io/landing)
+# [landing](https://nyan969.github.io/landing/)
 v1
